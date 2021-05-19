@@ -25,380 +25,380 @@ Machine Learning Fundamentals
 
 [Deep Learning Book, Ian Goodfellow](https://www.deeplearningbook.org/)
 
-ML INTRO W/ PYTORCH
+## ML INTRO W/ PYTORCH
 
 1. INTRO TO MACHINE LEARNING
 
-1. What Is Machine Learning?
-1. Projects
-1. Program Structure & Schedule
-1. Extracurricular Topics
-1. How to Succeed
-1. Knowledge
-1. Community Guidelines
+   1. What Is Machine Learning?
+2. Projects
+3. Program Structure & Schedule
+4. Extracurricular Topics
+5. How to Succeed
+6. Knowledge
+7. Community Guidelines
 
-1. Intro
-1. Python Installation
-1. [For Windows] Configuring Git Bash to Run Python
-1. What is Anaconda?
-1. Installing Anaconda
-1. Managing packages
-1. On Python versions at Udacity
-1. Running a Python Script
-1. Programming Environment Setup
-1. What are Jupyter notebooks?
-1. Installing Jupyter Notebook
-1. Launching the notebook server
-1. Notebook interface
-1. Markdown cells
-1. Code cells
-1. Keyboard shortcuts
-1. Magic keywords
-1. Converting notebooks
-1. Creating a slideshow
-1. Outro
+8. Intro
+9. Python Installation
+10. [For Windows] Configuring Git Bash to Run Python
+11. What is Anaconda?
+12. Installing Anaconda
+13. Managing packages
+14. On Python versions at Udacity
+15. Running a Python Script
+16. Programming Environment Setup
+17. What are Jupyter notebooks?
+18. Installing Jupyter Notebook
+19. Launching the notebook server
+20. Notebook interface
+21. Markdown cells
+22. Code cells
+23. Keyboard shortcuts
+24. Magic keywords
+25. Converting notebooks
+26. Creating a slideshow
+27. Outro
 
-1. SUPERVISED LEARNING
+28. SUPERVISED LEARNING
 
-1. Introduction
-1. History - A Statistician's Perspective
-1. History - A Computer Scientist's Perspective
-1. Types of Machine Learning - Supervised
-1. Types of Machine Learning - Unsupervised & Reinforcement
-1. Deep Learning
-1. Scikit Learn
-1. Ethics in Machine Learning
-1. What's Ahead
-1. Text: Recap
+29. Introduction
+30. History - A Statistician's Perspective
+31. History - A Computer Scientist's Perspective
+32. Types of Machine Learning - Supervised
+33. Types of Machine Learning - Unsupervised & Reinforcement
+34. Deep Learning
+35. Scikit Learn
+36. Ethics in Machine Learning
+37. What's Ahead
+38. Text: Recap
 
-1. Intro
-1. Quiz: Housing Prices
-1. Solution: Housing Prices
-1. Fitting a Line Through Data
-1. Moving a Line
-1. Absolute Trick
-1. Square Trick
-1. Quiz: Absolute and Square Trick
-1. Gradient Descent
-1. Mean Absolute Error
-1. Mean Squared Error
-1. Quiz: Mean Absolute & Squared Errors
-1. Minimizing Error Functions
-1. Mean vs Total Error
-1. Mini-batch Gradient Descent
-1. Quiz: Mini-Batch Gradient Descent
-1. Absolute Error vs Squared Error
-1. Linear Regression in scikit-learn
-1. Higher Dimensions
-1. Multiple Linear Regression
-1. Closed Form Solution
-1. (Optional) Closed form Solution Math
-1. Linear Regression Warnings
-1. Polynomial Regression
-1. Quiz: Polynomial Regression
-1. Regularization
-1. Quiz: Regularization
-1. Feature Scaling
-1. Outro
+39. Intro
+40. Quiz: Housing Prices
+41. Solution: Housing Prices
+42. Fitting a Line Through Data
+43. Moving a Line
+44. Absolute Trick
+45. Square Trick
+46. Quiz: Absolute and Square Trick
+47. Gradient Descent
+48. Mean Absolute Error
+49. Mean Squared Error
+50. Quiz: Mean Absolute & Squared Errors
+51. Minimizing Error Functions
+52. Mean vs Total Error
+53. Mini-batch Gradient Descent
+54. Quiz: Mini-Batch Gradient Descent
+55. Absolute Error vs Squared Error
+56. Linear Regression in scikit-learn
+57. Higher Dimensions
+58. Multiple Linear Regression
+59. Closed Form Solution
+60. (Optional) Closed form Solution Math
+61. Linear Regression Warnings
+62. Polynomial Regression
+63. Quiz: Polynomial Regression
+64. Regularization
+65. Quiz: Regularization
+66. Feature Scaling
+67. Outro
 
-1. Intro
-1. Classification Problems 1
-1. Classification Problems 2
-1. Linear Boundaries
-1. Higher Dimensions
-1. Perceptrons
-1. Perceptrons as Logical Operators
-1. Perceptron Trick
-1. Perceptron Algorithm
-1. Outro
+68. Intro
+69. Classification Problems 1
+70. Classification Problems 2
+71. Linear Boundaries
+72. Higher Dimensions
+73. Perceptrons
+74. Perceptrons as Logical Operators
+75. Perceptron Trick
+76. Perceptron Algorithm
+77. Outro
 
-1. DEEP LEARNING
+78. DEEP LEARNING
 
-1. Instructor
-1. Introduction
-1. Classification Problems 1
-1. Classification Problems 2
-1. Linear Boundaries
-1. Higher Dimensions
-1. Perceptrons
-1. Why "Neural Networks"?
-1. Perceptrons as Logical Operators
-1. Perceptron Trick
-1. Perceptron Algorithm
-1. Non-Linear Regions
-1. Error Functions
-1. Log-loss Error Function
-1. Discrete vs Continuous
-1. Softmax
-1. One-Hot Encoding
-1. Maximum Likelihood
-1. Maximizing Probabilities
-1. Cross-Entropy 1
-1. Cross-Entropy 2
-1. Multi-Class Cross Entropy
-1. Logistic Regression
-1. Gradient Descent
-1. Logistic Regression Algorithm
-1. Pre-Lab: Gradient Descent
-1. Notebook: Gradient Descent
-1. Perceptron vs Gradient Descent
-1. Continuous Perceptrons
-1. Non-linear Data
-1. Non-Linear Models
-1. Neural Network Architecture
-1. Feedforward
-1. Backpropagation
-1. Pre-Lab: Analyzing Student Data
-1. Notebook: Analyzing Student Data
-1. Outro
+79. Instructor
+80. Introduction
+81. Classification Problems 1
+82. Classification Problems 2
+83. Linear Boundaries
+84. Higher Dimensions
+85. Perceptrons
+86. Why "Neural Networks"?
+87. Perceptrons as Logical Operators
+88. Perceptron Trick
+89. Perceptron Algorithm
+90. Non-Linear Regions
+91. Error Functions
+92. Log-loss Error Function
+93. Discrete vs Continuous
+94. Softmax
+95. One-Hot Encoding
+96. Maximum Likelihood
+97. Maximizing Probabilities
+98. Cross-Entropy 1
+99. Cross-Entropy 2
+100. Multi-Class Cross Entropy
+101. Logistic Regression
+102. Gradient Descent
+103. Logistic Regression Algorithm
+104. Pre-Lab: Gradient Descent
+105. Notebook: Gradient Descent
+106. Perceptron vs Gradient Descent
+107. Continuous Perceptrons
+108. Non-linear Data
+109. Non-Linear Models
+110. Neural Network Architecture
+111. Feedforward
+112. Backpropagation
+113. Pre-Lab: Analyzing Student Data
+114. Notebook: Analyzing Student Data
+115. Outro
 
-1. Mean Squared Error Function
-1. Gradient Descent
-1. Gradient Descent: The Math
-1. Gradient Descent: The Code
-1. Implementing Gradient Descent
-1. Multilayer Perceptrons
-1. Backpropagation
-1. Implementing Backpropagation
-1. Further Reading
+116. Mean Squared Error Function
+117. Gradient Descent
+118. Gradient Descent: The Math
+119. Gradient Descent: The Code
+120. Implementing Gradient Descent
+121. Multilayer Perceptrons
+122. Backpropagation
+123. Implementing Backpropagation
+124. Further Reading
 
-1. Instructor
-1. Training Optimization
-1. Testing
-1. Overfitting and Underfitting
-1. Early Stopping
-1. Regularization
-1. Regularization 2
-1. Dropout
-1. Local Minima
-1. Random Restart
-1. Vanishing Gradient
-1. Other Activation Functions
-1. Batch vs Stochastic Gradient Descent
-1. Learning Rate Decay
-1. Momentum
-1. Error Functions Around the World
+125. Instructor
+126. Training Optimization
+127. Testing
+128. Overfitting and Underfitting
+129. Early Stopping
+130. Regularization
+131. Regularization 2
+132. Dropout
+133. Local Minima
+134. Random Restart
+135. Vanishing Gradient
+136. Other Activation Functions
+137. Batch vs Stochastic Gradient Descent
+138. Learning Rate Decay
+139. Momentum
+140. Error Functions Around the World
 
-1. Welcome
-1. Pre-Notebook
-1. Notebook Workspace
-1. Single layer neural networks
-1. Single layer neural networks solution
-1. Networks Using Matrix Multiplication
-1. Multilayer Networks Solution
-1. Neural Networks in PyTorch
-1. Neural Networks Solution
-1. Implementing Softmax Solution
-1. Network Architectures in PyTorch
-1. Network Architectures Solution
-1. Training a Network Solution
-1. Classifying Fashion-MNIST
-1. Fashion-MNIST Solution
-1. Inference and Validation
-1. Validation Solution
-1. Dropout Solution
-1. Saving and Loading Models
-1. Loading Image Data
-1. Loading Image Data Solution
-1. Pre-Notebook with GPU
-1. Notebook Workspace w/ GPU
-1. A Note on Transfer Learning
-1. Transfer Learning
-1. Transfer Learning II
-1. Transfer Learning Solution
-1. Tips, Tricks, and Other Notes
+141. Welcome
+142. Pre-Notebook
+143. Notebook Workspace
+144. Single layer neural networks
+145. Single layer neural networks solution
+146. Networks Using Matrix Multiplication
+147. Multilayer Networks Solution
+148. Neural Networks in PyTorch
+149. Neural Networks Solution
+150. Implementing Softmax Solution
+151. Network Architectures in PyTorch
+152. Network Architectures Solution
+153. Training a Network Solution
+154. Classifying Fashion-MNIST
+155. Fashion-MNIST Solution
+156. Inference and Validation
+157. Validation Solution
+158. Dropout Solution
+159. Saving and Loading Models
+160. Loading Image Data
+161. Loading Image Data Solution
+162. Pre-Notebook with GPU
+163. Notebook Workspace w/ GPU
+164. A Note on Transfer Learning
+165. Transfer Learning
+166. Transfer Learning II
+167. Transfer Learning Solution
+168. Tips, Tricks, and Other Notes
 
-1. Project Intro
-1. Introduction to GPU Workspaces
-1. Image Classifier - Part 1 - Development
-1. Image Classifier - Part 1 - Workspace
-1. Image Classifier - Part 2 - Command Line App
-1. Image Classifier - Part 2 - Workspace
-1. Rubric
-1. Project: Create Your Own Image Cl
+169. Project Intro
+170. Introduction to GPU Workspaces
+171. Image Classifier - Part 1 - Development
+172. Image Classifier - Part 1 - Workspace
+173. Image Classifier - Part 2 - Command Line App
+174. Image Classifier - Part 2 - Workspace
+175. Rubric
+176. Project: Create Your Own Image Cl
 
-1. Self-Reflection: Design Your Blueprint for Success
-1. Debrief: Self-Reflection Exercise Part 1
-1. Debrief: Self-Reflection Exercise Part 2
-1. Map Your Career Journey
-1. Debrief: Map Your Career Journey
-1. Conduct an Informational Interview
-1. How to Request an Informational Interview
-1. Ways to Connect
-1. Ask Good Questions
-1. Debrief: Sample Questions Quiz
-1. Keep the Conversation Going
+177. Self-Reflection: Design Your Blueprint for Success
+178. Debrief: Self-Reflection Exercise Part 1
+179. Debrief: Self-Reflection Exercise Part 2
+180. Map Your Career Journey
+181. Debrief: Map Your Career Journey
+182. Conduct an Informational Interview
+183. How to Request an Informational Interview
+184. Ways to Connect
+185. Ask Good Questions
+186. Debrief: Sample Questions Quiz
+187. Keep the Conversation Going
 
-1. UNSUPERVISED LEARNING
+188. UNSUPERVISED LEARNING
 
-1. Video: Introduction
-1. Text: Course Outline
-1. Video: Two Types of Unsupervised Learning
-1. Video: K-Means Use Cases
-1. Video: K-Means
-1. Quiz: Identifying Clusters
-1. Video: Changing K
-1. Video: Elbow Method
-1. Screencast: K-Means in Scikit Learn
-1. Notebook: Your Turn
-1. Screencast: Solution
-1. Video: How Does K-Means Work?
-1. Screencast + Text: How Does K-Means Work?
-1. Quiz: How Does K-Means Work?
-1. Video: Is that the Optimal Solution?
-1. Video: Feature Scaling
-1. Video: Feature Scaling Example
-1. Notebook: Feature Scaling Example
-1. Notebook: Feature Scaling
-1. Screencast: Solution
-1. Video: Outro
-1. Text: Recap
+189. Video: Introduction
+190. Text: Course Outline
+191. Video: Two Types of Unsupervised Learning
+192. Video: K-Means Use Cases
+193. Video: K-Means
+194. Quiz: Identifying Clusters
+195. Video: Changing K
+196. Video: Elbow Method
+197. Screencast: K-Means in Scikit Learn
+198. Notebook: Your Turn
+199. Screencast: Solution
+200. Video: How Does K-Means Work?
+201. Screencast + Text: How Does K-Means Work?
+202. Quiz: How Does K-Means Work?
+203. Video: Is that the Optimal Solution?
+204. Video: Feature Scaling
+205. Video: Feature Scaling Example
+206. Notebook: Feature Scaling Example
+207. Notebook: Feature Scaling
+208. Screencast: Solution
+209. Video: Outro
+210. Text: Recap
 
-1. K-means considerations
-1. Overview of other clustering methods
-1. Hierarchical clustering: single-link
-1. Examining single-link clustering
-1. Complete-link, average-link, Ward
-1. Hierarchical clustering implementation
-1. [Lab] Hierarchical clustering
-1. [Lab Solution] Hierarchical Clustering
-1. HC examples and applications
-1. Quiz: [Quiz] Hierarchical clustering
-1. DBSCAN
-1. DBSCAN implementation
-1. [Lab] DBSCAN
-1. [Lab Solution] DBSCAN
-1. DBSCAN examples & applications
-1. Quiz: [Quiz] DBSCAN
+211. K-means considerations
+212. Overview of other clustering methods
+213. Hierarchical clustering: single-link
+214. Examining single-link clustering
+215. Complete-link, average-link, Ward
+216. Hierarchical clustering implementation
+217. [Lab] Hierarchical clustering
+218. [Lab Solution] Hierarchical Clustering
+219. HC examples and applications
+220. Quiz: [Quiz] Hierarchical clustering
+221. DBSCAN
+222. DBSCAN implementation
+223. [Lab] DBSCAN
+224. [Lab Solution] DBSCAN
+225. DBSCAN examples & applications
+226. Quiz: [Quiz] DBSCAN
 
-1. Intro
-1. Gaussian Mixture Model (GMM) Clustering
-1. Gaussian Distribution in One Dimension
-1. GMM Clustering in One Dimension
-1. Gaussian Distribution in 2D
-1. GMM in 2D
-1. Quiz: Gaussian Mixtures
-1. Overview of The Expectation Maximization (EM) Algorithm
-1. Expectation Maximization Part 1
-1. Expectation Maximization Part 2
-1. Visual Example of EM Progress
-1. Quiz: Expectation Maximization
-1. GMM Implementation
-1. GMM Examples & Applications
-1. Cluster Analysis Process
-1. Cluster Validation
-1. External Validation Indices
-1. Quiz: Adjusted Rand Index
-1. Internal Validation Indices
-1. Quiz: Silhouette Coefficient
-1. GMM & Cluster Validation Lab
-1. GMM & Cluster Validation Lab Solu
+227. Intro
+228. Gaussian Mixture Model (GMM) Clustering
+229. Gaussian Distribution in One Dimension
+230. GMM Clustering in One Dimension
+231. Gaussian Distribution in 2D
+232. GMM in 2D
+233. Quiz: Gaussian Mixtures
+234. Overview of The Expectation Maximization (EM) Algorithm
+235. Expectation Maximization Part 1
+236. Expectation Maximization Part 2
+237. Visual Example of EM Progress
+238. Quiz: Expectation Maximization
+239. GMM Implementation
+240. GMM Examples & Applications
+241. Cluster Analysis Process
+242. Cluster Validation
+243. External Validation Indices
+244. Quiz: Adjusted Rand Index
+245. Internal Validation Indices
+246. Quiz: Silhouette Coefficient
+247. GMM & Cluster Validation Lab
+248. GMM & Cluster Validation Lab Solu
 
-1. Video: Introduction
-1. Video: Lesson Topics
-1. Text: Lesson Topics
-1. Video: Latent Features
-1. Latent Features
-1. Video: How to Reduce Features?
-1. Video: Dimensionality Reduction
-1. Video: PCA Properties
-1. Quiz: How Does PCA Work?
-1. Screencast: PCA
-1. Notebook: PCA - Your Turn
-1. Screencast: PCA Solution
-1. Screencast: Interpret PCA Results
-1. Notebook: Interpretation
-1. Screencast: Interpretation Solution
-1. Text: What Are EigenValues & EigenVectors?
-1. Video: When to Use PCA?
-1. Video: Recap
-1. Notebook: Mini-Project
-1. Mini-Project Solution
-1. Video: Outro
-1. Text: Recap
+249. Video: Introduction
+250. Video: Lesson Topics
+251. Text: Lesson Topics
+252. Video: Latent Features
+253. Latent Features
+254. Video: How to Reduce Features?
+255. Video: Dimensionality Reduction
+256. Video: PCA Properties
+257. Quiz: How Does PCA Work?
+258. Screencast: PCA
+259. Notebook: PCA - Your Turn
+260. Screencast: PCA Solution
+261. Screencast: Interpret PCA Results
+262. Notebook: Interpretation
+263. Screencast: Interpretation Solution
+264. Text: What Are EigenValues & EigenVectors?
+265. Video: When to Use PCA?
+266. Video: Recap
+267. Notebook: Mini-Project
+268. Mini-Project Solution
+269. Video: Outro
+270. Text: Recap
 
-1. Random Projection
-1. Quiz: Random Projection
-1. Random Projection in sklearn
-1. Independent Component Analysis (ICA)
-1. FastICA Algorithm
-1. Quiz: ICA
-1. ICA in sklearn
-1. [Lab] Independent Component Analysis
-1. [Solution] Independent Component Analysis
-1. ICA Applications
+271. Random Projection
+272. Quiz: Random Projection
+273. Random Projection in sklearn
+274. Independent Component Analysis (ICA)
+275. FastICA Algorithm
+276. Quiz: ICA
+277. ICA in sklearn
+278. [Lab] Independent Component Analysis
+279. [Solution] Independent Component Analysis
+280. ICA Applications
 
-1. Project Introduction
-1. Project Overview
-1. Project Details
-1. Arvato: Terms and Conditions
-1. Project Workspace
-1. Project: Creating Customer Segment
+281. Project Introduction
+282. Project Overview
+283. Project Details
+284. Arvato: Terms and Conditions
+285. Project Workspace
+286. Project: Creating Customer Segment
 
-1. CONGRATULATIONS
+287. CONGRATULATIONS
 
-1. PYTHON FOR DATA ANALYSIS
+288. PYTHON FOR DATA ANALYSIS
 
-1. Instructor
-1. Welcome to the Course!
-1. Programming in Python
-1. Course Overview
+289. Instructor
+290. Welcome to the Course!
+291. Programming in Python
+292. Course Overview
 
-1. Introduction
-1. Arithmetic Operators
-1. Quiz: Arithmetic Operators
-1. Solution: Arithmetic Operators
-1. Variables and Assignment Operators
-1. Quiz: Variables and Assignment Operators
-1. Solution: Variables and Assignment Operators
-1. Integers and Floats
-1. Quiz: Integers and Floats
-1. Booleans, Comparison Operators, and Logical Operators
-1. Quiz: Booleans, Comparison Operators, and Logical Operators
-1. Solution: Booleans, Comparison and Logical Operators
-1. Strings
-1. Quiz: Strings
-1. Solution: Strings
-1. Type and Type Conversion
-1. Quiz: Type and Type Conversion
-1. Solution: Type and Type Conversion
-1. String Methods
-1. Quiz: String Methods
-1. Another String Method - Split
-1. Lists and Membership Operators
-1. Quiz: Lists and Membership Operators
-1. Solution: List and Membership Operators
-1. List Methods
-1. Quiz: List Methods
-1. Tuples
-1. Quiz: Tuples
-1. Sets
-1. Quiz: Sets
-1. Dictionaries and Identity Operators
-1. Quiz: Dictionaries and Identity Operators
-1. Solution: Dictionaries and Identity Operators
-1. Quiz: More With Dictionaries
-1. Compound Data Structures
-1. Quiz: Compound Data Structures
-1. Solution: Compound Data Structions
-1. Conclusion
-1. Summary
+293. Introduction
+294. Arithmetic Operators
+295. Quiz: Arithmetic Operators
+296. Solution: Arithmetic Operators
+297. Variables and Assignment Operators
+298. Quiz: Variables and Assignment Operators
+299. Solution: Variables and Assignment Operators
+300. Integers and Floats
+301. Quiz: Integers and Floats
+302. Booleans, Comparison Operators, and Logical Operators
+303. Quiz: Booleans, Comparison Operators, and Logical Operators
+304. Solution: Booleans, Comparison and Logical Operators
+305. Strings
+306. Quiz: Strings
+307. Solution: Strings
+308. Type and Type Conversion
+309. Quiz: Type and Type Conversion
+310. Solution: Type and Type Conversion
+311. String Methods
+312. Quiz: String Methods
+313. Another String Method - Split
+314. Lists and Membership Operators
+315. Quiz: Lists and Membership Operators
+316. Solution: List and Membership Operators
+317. List Methods
+318. Quiz: List Methods
+319. Tuples
+320. Quiz: Tuples
+321. Sets
+322. Quiz: Sets
+323. Dictionaries and Identity Operators
+324. Quiz: Dictionaries and Identity Operators
+325. Solution: Dictionaries and Identity Operators
+326. Quiz: More With Dictionaries
+327. Compound Data Structures
+328. Quiz: Compound Data Structures
+329. Solution: Compound Data Structions
+330. Conclusion
+331. Summary
 
-1. Introduction
-1. Conditional Statements
-1. Practice: Conditional Statements
-1. Solution: Conditional Statements
-1. Quiz: Conditional Statements
-1. Solution: Conditional Statements
-1. Boolean Expressions for Conditions
-1. Quiz: Boolean Expressions for Conditions
-1. Solution: Boolean Expressions for Conditions
-1. For Loops
-1. Practice: For Loops
-1. Solution: For Loops Practice
-1. Quiz: For Loops
-1. Solution: For Loops Quiz
-1. Quiz: Match Inputs To Outputs
+332. Introduction
+333. Conditional Statements
+334. Practice: Conditional Statements
+335. Solution: Conditional Statements
+336. Quiz: Conditional Statements
+337. Solution: Conditional Statements
+338. Boolean Expressions for Conditions
+339. Quiz: Boolean Expressions for Conditions
+340. Solution: Boolean Expressions for Conditions
+341. For Loops
+342. Practice: For Loops
+343. Solution: For Loops Practice
+344. Quiz: For Loops
+345. Solution: For Loops Quiz
+346. Quiz: Match Inputs To Outputs
 1. Building Dictionaries
 1. Iterating Through Dictionaries with For Loops
 1. Quiz: Iterating Through Dictionaries
