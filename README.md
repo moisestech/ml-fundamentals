@@ -88,7 +88,7 @@ Machine Learning Fundamentals
 - 15. Mini-batch Gradient Descent
 - 16. Quiz: Mini-Batch Gradient Descent
 - 17. Absolute Error vs Squared Error
-- 18. Linear Regression in scikit-learn
+- 18. Linear Regression in Scikit learn
 - 19. Higher Dimensions
 - 20. Multiple Linear Regression
 - 21. Closed Form Solution
@@ -154,34 +154,49 @@ Machine Learning Fundamentals
 - 36. Notebook: Analyzing Student Data
 - 37. Outro
 
-2. - 115. Mean Squared Error Function
-   - 116. Gradient Descent
-   - 117. Gradient Descent: The Math
-   - 118. Gradient Descent: The Code
-   - 119. Implementing Gradient Descent
-   - 120. Multilayer Perceptrons
-   - 121. Backpropagation
-   - 122. Implementing Backpropagation
-   - 123. Further Reading
+### LESSON 5: Naive Bayes
 
-3. - 1. Instructor
-   - 2. Training Optimization
-   - 3. Testing
-   - 4. Overfitting and Underfitting
-   - 5. Early Stopping
-   - 6. Regularization
-   - 7. Regularization 2
-   - 8. Dropout
-   - 9. Local Minima
-   - 10. Random Restart
-   - 11. Vanishing Gradient
-   - 12. Other Activation Functions
-   - 13. Batch vs Stochastic Gradient Descent
-   - 14. Learning Rate Decay
-   - 15. Momentum
-   - 16. Error Functions Around the World
+- 1.  Mean Squared Error Function
+- 2.  Gradient Descent
+- 3.  Gradient Descent: The Math
+- 4.  Gradient Descent: The Code
+- 5.  Implementing Gradient Descent
+- 6.  Multilayer Perceptrons
+- 7.  Backpropagation
+- 8.  Implementing Backpropagation
+- 9.  Further Reading
 
-4. - 140. Welcome
+### LESSON 6: Support Vector Machines
+
+- 1. Instructor
+- 2.  Training Optimization
+- 3.  Testing
+- 4.  Overfitting and Underfitting
+- 5.  Early Stopping
+- 6.  Regularization
+- 7.  Regularization 2
+- 8.  Dropout
+- 9.  Local Minima
+- 10. Random Restart
+- 11. Vanishing Gradient
+- 12. Other Activation Functions
+- 13. Batch vs Stochastic Gradient Descent
+- 14. Learning Rate Decay
+- 15. Momentum
+- 16. Error Functions Around the World
+
+### LESSON 7: Ensemble Methods
+
+- 1. Intro
+- 2. Ensembles
+- 3. Random Forests
+- 4. Bagging
+- 5. AdaBoost
+- 6. Weighting the Data
+- 7. Weighting the Models 1
+- 8. Weighting the Models 2
+
+1. - 140. Welcome
 
 - 141.  Pre-Notebook
 - 142.  Notebook Workspace
